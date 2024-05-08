@@ -1,10 +1,11 @@
 ### Hi there 👋
 [![GitHub followers](https://img.shields.io/github/followers/XardoX.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/XardoX?tab=followers)
 
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
+![](https://komarev.com/ghpvc/?username=XardoX&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -23,6 +24,9 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white 
+https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036
+https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white
 <!--
 **XardoX/xardox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
