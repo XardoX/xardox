@@ -2,6 +2,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/XardoX.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/XardoX?tab=followers)
 
 ![](https://komarev.com/ghpvc/?username=XardoX&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
