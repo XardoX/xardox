@@ -3,7 +3,9 @@
 
 ![](https://komarev.com/ghpvc/?username=XardoX&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xardoxgaming)
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=xardoxgaming">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=xardoxgaming" alt="Data Card for Spotify">
+</a>
 <!--
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
