@@ -1,6 +1,6 @@
 ### Hello there 👋
 [![GitHub followers](https://img.shields.io/github/followers/XardoX.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/XardoX?tab=followers)
-
+<!--
 ![](https://komarev.com/ghpvc/?username=XardoX&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=xardoxgaming)
